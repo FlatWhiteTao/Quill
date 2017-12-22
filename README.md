@@ -4,6 +4,7 @@ The Quill is an online news content provider that allows subscribers to browse n
 It is a Spring MVC+Hibernate+MySQL+Maven intergration project. 
 
 The architecture of this project consists of 6 layers, and suitable design patterns and technologies are applied in each layer:
+	
 	1. Client Layer:  HTML, AJAX, JavaScript, JQuery
 	
 	2.Spring Security Layer: Built-in Spring Security Framework, Authentication Enforcer, Authorisation enforcer, Intercepting Validator, Filter Chain 
