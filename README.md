@@ -7,7 +7,7 @@ The architecture of this project consists of 6 layers, and suitable design patte
 	
 	1. Client Layer:  HTML, AJAX, JavaScript, JQuery
 	
-	2.Spring Security Layer: Built-in Spring Security Framework, Authentication Enforcer, Authorisation enforcer, Intercepting Validator, Filter Chain 
+	2. Spring Security Layer: Built-in Spring Security Framework, Authentication Enforcer, Authorisation enforcer, Intercepting Validator, Filter Chain 
 	
 	3. Presentation Layer: MVC pattern, Front Controller pattern, dependency injection pattern, Authorisation enforcer (render the UI based on the Authorisation) 
 	
